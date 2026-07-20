@@ -4,7 +4,7 @@ A real-time, browser-based flight telemetry dashboard for an eVTOL prototype, bu
 
 **Tech stack:** ESP32 · Arduino (C/C++) · I2C · UART · OneWire · WiFi (WebServer) · Leaflet.js
 
- &nbsp;|&nbsp; 💼 **[LinkedIn Post](https://www.linkedin.com/posts/jahanvi-kalia_evtol-iot-embeddedsystems-activity-7366125087588089857-izSj)**
+ &nbsp;|&nbsp; 💼 **[demo video on LinkedIn](https://www.linkedin.com/posts/jahanvi-kalia_evtol-iot-embeddedsystems-activity-7366125087588089857-izSj)**
 
 ## Overview
 
